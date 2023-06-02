@@ -1,0 +1,10 @@
+body{
+    background-color:#A9F04B !important
+}
+canvas{
+    border: grey 2px solid;
+}
+#feedback{
+    display: flex;
+    justify-content: space-between;
+}
